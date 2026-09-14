@@ -1,0 +1,7 @@
+interface:
+  display_name: "Paper Skim"
+  short_description: "眼科 MSL 临床文献粗读、证据批判与产品生命周期价值研判"
+  default_prompt: "Use $paper-skim to critically skim this ophthalmology paper and create a Chinese Markdown evidence note."
+
+policy:
+  allow_implicit_invocation: true
